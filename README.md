@@ -22,7 +22,7 @@
 ― Jeffery Deaver</p>
 
 <div style="display: flex;">
-  <img width="475" alt="Server-188" src="http://i.ytimg.com/vi/NeESf9aCZHQ/maxresdefault.jpg">
+  <img width="400" alt="Server-188" src="http://i.ytimg.com/vi/NeESf9aCZHQ/maxresdefault.jpg">
   <img width="400" alt="Hacker" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.procircular.com%2Fhubfs%2FHacker.jpeg%23keepProtocol&f=1&nofb=1&ipt=d6e713af4404ea59d5a3e46e4201bca67bb16c2534e6fcbdb21c35cf33ac47f2&ipo=images">
 </div>
 
