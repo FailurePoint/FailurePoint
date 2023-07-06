@@ -26,7 +26,7 @@
   <img height ="250" alt="Hacker" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.procircular.com%2Fhubfs%2FHacker.jpeg%23keepProtocol&f=1&nofb=1&ipt=d6e713af4404ea59d5a3e46e4201bca67bb16c2534e6fcbdb21c35cf33ac47f2&ipo=images">
 </div>
 
-
+<p>17 Years old.</p>
 <p style=margin-top: 150px;>
 Kali Linux fanatic by night, Python Developer and Amateur Radio Scientist for kicks by day.</p>
 
@@ -41,4 +41,9 @@ Kali Linux fanatic by night, Python Developer and Amateur Radio Scientist for ki
 
 
 <a href='https://flathub.org/apps/org.gimp.GIMP'><img width='240' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'/></a>
+
+<h3 align="center"><b>Contact</b></h3>
+<p align="center"><code>FailurePoint@proton.me</code></p>
+
+<p align="right"><i>Spicy Chi or nothing please!</i></p>
 
