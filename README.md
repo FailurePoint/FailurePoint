@@ -28,12 +28,14 @@
 
 <p>17 Years old.</p>
 <p style=margin-top: 150px;>
-Kali Linux fanatic by night, Python Developer and Amateur Radio Scientist for kicks by day.</p>
+Kali Linux fanatic by night, Python Developer and Amateur Radio Scientist by day.</p>
 
 <p>Love: Anything GNOME.</p>
 <p>Hate: Everything Apple.</p>
 
-<p>Languages: Python, R, Peral, XML, HTML.</p>
+<p>Languages: Python, R, Bash, XML, HTML.</p>
+<p>Learing: Rust, Vala, C#</p>
+
 <p>Owner/Mantianer of 16 Deep Web Sites.</p>
 
 <p>Battle playlist and work playlist are one and the same.</p>
