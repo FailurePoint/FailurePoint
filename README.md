@@ -1,4 +1,4 @@
-# Failure is rat of life. It only makes you stronger next time.
+# Failure is part of life. It only makes us stronger next time.
 <a href="https://stopthemingmy.app">
     <img width="180" alt="Please Don't Theme" src="https://stopthemingmy.app/badge.svg"/>
 </a>
@@ -10,7 +10,7 @@
 
 <div style="display: flex;">
   <img height ="250" alt="Server-188" src="http://i.ytimg.com/vi/NeESf9aCZHQ/maxresdefault.jpg">
-  <img height ="250" alt="Hacker" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fcomputer-programmers-working-desk-illustration-ai-generated_41723571.htm&psig=AOvVaw2eYkIWeLAm-CTVjuE9fqpX&ust=1704344149581000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCosfe3wIMDFQAAAAAdAAAAABAD">
+  <img height ="250" alt="Hacker" src="https://img.freepik.com/premium-photo/hacker-sitting-desktop_752237-13912.jpg">
 </div>
 
 <p>17 Years old.</p>
