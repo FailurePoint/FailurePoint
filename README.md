@@ -1,29 +1,16 @@
-# I can Neither confirm nor deny that I actually am who I am who I say I am...
+# Failure is rat of life. It only makes you stronger next time.
 <a href="https://stopthemingmy.app">
     <img width="180" alt="Please Don't Theme" src="https://stopthemingmy.app/badge.svg"/>
 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FailurePoint)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<p>"Even the weakest Link, yes even often, the weakest link is the most dangerous! Never drop your guard!" -Unknown</p>
-
 <p>“Never tell everything you know…”
 ― Roger H. Lincoln</p>
-<p>  </p>
-<p>“Never underestimate the determination of a kid who is time-rich and cash-poor.”
-― Cory Doctorow, Little Brother</p>
-<p>  </p>
-<p>“There are few sources of energy so powerful as a procrastinating college student.”
-― Paul Graham, Hackers & Painters: Big Ideas from the Computer Age</p>
-<p>  </p>
-<p style=margin-bottom: 150px;>
-“As a matter of fact, yeah, they were foolproof. The problem is that you don’t have to protect yourself against fools. You have to protect yourself against people like me.”
-― Jeffery Deaver</p>
 
 <div style="display: flex;">
   <img height ="250" alt="Server-188" src="http://i.ytimg.com/vi/NeESf9aCZHQ/maxresdefault.jpg">
-  <img height ="250" alt="Hacker" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.procircular.com%2Fhubfs%2FHacker.jpeg%23keepProtocol&f=1&nofb=1&ipt=d6e713af4404ea59d5a3e46e4201bca67bb16c2534e6fcbdb21c35cf33ac47f2&ipo=images">
+  <img height ="250" alt="Hacker" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fcomputer-programmers-working-desk-illustration-ai-generated_41723571.htm&psig=AOvVaw2eYkIWeLAm-CTVjuE9fqpX&ust=1704344149581000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCosfe3wIMDFQAAAAAdAAAAABAD">
 </div>
 
 <p>17 Years old.</p>
@@ -31,12 +18,13 @@
 Kali Linux fanatic by night, Python Developer and Amateur Radio Scientist by day.</p>
 
 <p>Love: Anything GNOME.</p>
-<p>Hate: Everything Apple.</p>
+<p>Hate: Everything Windows.</p>
+<p>Apple is ok.</p>
 
-<p>Languages: Python, R, Bash, XML, HTML.</p>
+<p>Languages: Python, R, Bash, XML, HTML, ZSH.</p>
 <p>Learing: Rust, Vala, C#</p>
 
-<p>Owner/Mantianer of 16 Deep Web Sites.</p>
+<p>Owner/Mantianer of 5 Deep Web Sites.</p>
 
 <p>Battle playlist and work playlist are one and the same.</p>
 
