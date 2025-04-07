@@ -34,7 +34,8 @@ Kali Linux fanatic by night, Python Developer and Amateur Radio Scientist by day
 <a href='https://flathub.org/apps/org.gimp.GIMP'><img width='240' alt='Download on Flathub' src='https://dl.flathub.org/assets/badges/flathub-badge-en.png'/></a>
 
 <h3 align="center"><b>Contact</b></h3>
-<p align="center"><code>FailurePoint@proton.me</code></p>
+<p align="center"><code>Email: FailurePoint@proton.me</code></p>
+<p align="center"><code>Discord: radiopt73 (Send a friend request first)</code></p>
 
 <p align="right"><i>Spicy Chi or nothing please!</i></p>
 
