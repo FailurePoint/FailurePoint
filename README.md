@@ -3,7 +3,6 @@
     <img width="180" alt="Please Don't Theme" src="https://stopthemingmy.app/badge.svg"/>
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FailurePoint)](https://github.com/anuraghazra/github-readme-stats)
 ![alt text](https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Radiioptic&theme=dark)
 
 <p>“Never tell everything you know…”
